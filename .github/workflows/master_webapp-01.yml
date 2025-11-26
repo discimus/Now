@@ -62,4 +62,5 @@ jobs:
           app-name: 'webapp-01'
           slot-name: 'Production'
           package: .
+          startup-command: 'dotnet Now.Api.dll'
           
